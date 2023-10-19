@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**joyceanner/joyceanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá!💜 
+👩🏻‍💻Desenvolvedora Backend em formação.
+
+📚Estou estudando a linguagem de programação Python
+<br>
+💡Conhecimento básico em HTML e CSS
+
+📥E-mail: joyceannerodrigues@gmail.com
+<br>
+💻LinkedIn: https://www.linkedin.com/in/joyce-anne-rodrigues-s-gomes-768aa1287/
+
