@@ -2,13 +2,15 @@
 
 
 # Olá!💜 
-👩🏻‍💻Desenvolvedora Backend em formação.
+👩🏻‍💻 __*Desenvolvedora Backend em formação*__
+***
 
-📚Estou estudando a linguagem de programação Python
+📚 _Estou estudando a linguagem de programação Python_
 <br>
-💡Conhecimento básico em HTML e CSS
+💡 _Conhecimento básico em HTML e CSS_
+***
 
-📥E-mail: joyceannerodrigues@gmail.com
+📥[Meu e-mail](joyceannerodrigues@gmail.com)
 <br>
-💻LinkedIn: https://www.linkedin.com/in/joyce-anne-rodrigues-s-gomes-768aa1287/
+💻[Meu LinkedIn](https://www.linkedin.com/in/joyce-anne-rodrigues-s-gomes-768aa1287/)
 
