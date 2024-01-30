@@ -1,7 +1,7 @@
 <h1 align="center">Olá 💜 Eu sou Joyce Gomes</h1>
-<h3 align="center">👩🏻‍💻 Desenvolvedora Backend em formação de Natal/RN, Brasil</h3>
+<h3 align="center">👩🏻‍💻 Data Science em formação de Natal/RN, Brasil</h3>
 
-- 📚 Estou estudando a linguagem de programação **Python**
+- 📚 Iniciei meus estudos na linguagem Python em julho de 2023, recentemente em dezembro/2023 resolvi focar meus estudos na área de dados, faço o curso Superior de Tecnologia em Ciência de Dados pela Faculdade Cruzeiro do Sul Virtual, e aprimorando meus conhecimentos com a formação em Data Science pela Alura.
 
 - 📫 Meu endereço de e-mail **joyceannerodrigues@gmail.com**
 
