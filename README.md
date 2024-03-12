@@ -5,7 +5,6 @@
 
 - 📫 Meu endereço de e-mail **joyceannerodrigues@gmail.com**
 
-- ⚡ Conhecimento básico em **HTML e CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
