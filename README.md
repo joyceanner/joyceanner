@@ -1,7 +1,7 @@
 <h1 align="center">Olá 💜 Eu sou Joyce Gomes</h1>
 <h3 align="center">👩🏻‍💻 Data Science em formação de Natal/RN, Brasil</h3>
 
-- 📚 Estudante do Curso Superior de Tecnologia em Ciência de Dados, tenho me dedicado a aprimorar minhas habilidades em Python. A combinação entre minha formação acadêmica e projetos práticos tem solidificado meu conhecimento na área de Ciência de Dados, impulsionando minha transição da Telecomunicações para esse campo promissor. Tenho conehcimento básico em HTML E CSS
+- 📚 Estudante do Curso Superior de Tecnologia em Ciência de Dados, tenho me dedicado a aprimorar minhas habilidades em Python. A combinação entre minha formação acadêmica e o estudo pela Alura junto com desenvolvimento de projetos práticos tem solidificado meu conhecimento na área de Analista de Dados, impulsionando minha transição da Telecomunicações para esse campo promissor. Tenho conehcimento básico em HTML E CSS
 
 - 📫 Meu endereço de e-mail **joyceannerodrigues@gmail.com**
 
